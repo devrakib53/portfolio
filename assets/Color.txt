@@ -1,0 +1,6 @@
+BG-1   #9deba8
+BG-2   #b6a7e8
+
+main Color-1: #37ed6d
+
+main Color-2: #5222f2 
